@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndelaProject</string>
+    <string name="noText">No items to display</string>
+    <string name="error_title">Error</string>
+    <string name="error_message">Sorry!, there was an error connecting to the web</string>
+    <string name="share_url">Share url</string>
+    <string name="profile_url">Profile Url:</string>
+    <string name="username">Username:</string>
+    <string name="designed">Designed By Orie Victor</string>
+    <string name="assessment">Assessment solution</string>
+</resources>
